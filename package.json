@@ -1,5 +1,6 @@
 {
   "name": "rest-api",
+  "author":"matheus alves pereira",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +8,7 @@
     "start": "nodemon index.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
