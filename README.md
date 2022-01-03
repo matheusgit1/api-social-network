@@ -271,7 +271,7 @@ requisição/resposta
 
 requisição/resposta
 
-![prod 16](/blob/main/api-preview/posts/get%20all%20posts%20off%20all%20users.PNG)
+![prod 16](https://github.com/matheusgit1/api-social-network/blob/main/api-preview/posts/get%20all%20posts%20off%20all%20users.PNG)
 
 
 #### Autor: Matheus Alves Pereira
