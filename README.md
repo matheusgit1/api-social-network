@@ -1,5 +1,5 @@
 
-##social-network api
+## social-network api
 
 este projeto tem licença livre, baixe, melhore e use como quiser. Feito com carinho!
 ## Documentação da API
